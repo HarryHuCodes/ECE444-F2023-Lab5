@@ -1,5 +1,11 @@
 # ECE444-F2023-Lab5
 Introduction to TDD (Test-Driven Development)
+## Test Cases to Project
+Tests for event class (written, pushed and merged to the main branch of our project). This was completed as a part of my sprint task for week 2. 
+https://github.com/ECE444/Byte_Benevolence/blob/main/Event%20Class/event_unittest.py
+
+
+# What is Test-driven Development?
 
 Test-driven development is a practice that aims to create minimal and efficient code.  It follows a test-first, code-later structure that places an emphasis on writing tests before any actual coding. By failing the tests, programmers get an idea of what is needed and produce just enough code to pass. This way we end up with clean and maintainable code without anything extra.
 A TDD cycle is as follows:
